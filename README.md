@@ -1,1 +1,1 @@
-# STAT5242_-GAN_Project
+# STAT5242_GAN_Project
