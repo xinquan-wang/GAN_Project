@@ -34,8 +34,8 @@ The resulting pictures, gifs and plots of loss can be found in the output folder
 - SVHN
 
 |Originial|Baseline|Advanced|WGAN|
-|:-:|:-:|:-:|
-|![](./Output/SVHN/[Tutorial]image/image_at_epoch_0100.png)|![](./Output/SVHN/[Modified]image/image_at_epoch_0100.png)|![](./Output/SVHN/[WGAN]image/image_at_epoch_0100.png)|
+|:-:|:-:|:-:|:-:|
+|![](./Output/SVHN/original_SVHN.png)|![](./Output/SVHN/[Baseline]image/image_at_epoch_0100.png)|![](./Output/SVHN/[Modified]image/image_at_epoch_0100.png)|![](./Output/SVHN/[WGAN]image/image_at_epoch_0100.png)|
 
 |Generator loss|Discriminator loss|
 |:-:|:-:|
@@ -46,4 +46,4 @@ The resulting pictures, gifs and plots of loss can be found in the output folder
 ## Reference
 - Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. (Full paper: http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
              
-- https://www.tensorflow.org/tutorials/generative/dcgan
+- Deep Convolutional Generative Adversarial Network. https://www.tensorflow.org/tutorials/generative/dcgan
