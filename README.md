@@ -1,7 +1,10 @@
 
 # STAT5242 GAN Project
 
-In this project, we explored the topic of Generative Adversarial Networks and built several models implementations using the Keras library. The models are implemented for two datasets: MNIST and SVHN.   
+In this project, we explored the topic of Generative Adversarial Networks and built several models implementations using the Keras library.   
+
+GANs are a form of neural network in which two sub-networks are trained on opposing loss functions: an generator that is trained to produce data which resemble the true data, and a discriminator that is trained to discriminate between the fake data and generated data. Our goal for this poriject is to train the GAN models to reproduce pictures. We used two datasets: MNIST and SVHN.
+ 
               
 For MNIST, we ran a simple GAN with CNN layers as a baseline model and modified the architecture and hyper-parameters to generate a more advanced model. For SVHN, we applied the advanced model from MNIST first to see if there's any differenes in the quality compared to the GAN on MNIST. We also explored different architecture of neural networks and hyperpa-rameters. As an improved method, WGAN was implemented and compared with the traditional GAN method. 
 
