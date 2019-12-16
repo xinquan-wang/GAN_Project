@@ -23,9 +23,9 @@ The resulting pictures, gifs and plots of loss can be found in the output folder
 
 - MNIST
 
-|Baseline|Advanced|WGAN|
-|:-:|:-:|:-:|
-|![](./Output/MNIST/[Tutorial]image/image_at_epoch_0100.png)|![](./Output/MNIST/[Modified]image/image_at_epoch_0100.png)|![](./Output/MNIST/[WGAN]image/image_at_epoch_0100.png)|
+|Original|Baseline|Advanced|WGAN|
+|:-:|:-:|:-:|:-:|
+|![](./Output/MNIST/original_MNIST.png)|![](./Output/MNIST/[Tutorial]image/image_at_epoch_0100.png)|![](./Output/MNIST/[Modified]image/image_at_epoch_0100.png)|![](./Output/MNIST/[WGAN]image/image_at_epoch_0100.png)|
 
 |Generator loss|Discriminator loss|
 |:-:|:-:|
@@ -33,9 +33,13 @@ The resulting pictures, gifs and plots of loss can be found in the output folder
 
 - SVHN
 
-|Baseline|Advanced|WGAN|
+|Originial|Baseline|Advanced|WGAN|
 |:-:|:-:|:-:|
-|![](./Output/SVHN/[Tutorial]image/image_at_epoch_0200.png)|![](./Output/SVHN/[Modified]image/image_at_epoch_0096.png)|![](./Output/SVHN/WGAN/image_at_epoch_0200.png)|
+|![](./Output/SVHN/[Tutorial]image/image_at_epoch_0100.png)|![](./Output/SVHN/[Modified]image/image_at_epoch_0100.png)|![](./Output/SVHN/[WGAN]image/image_at_epoch_0100.png)|
+
+|Generator loss|Discriminator loss|
+|:-:|:-:|
+|![](./Output/SVHN/Loss/gen_loss_SVHN.png)|![](./Output/SVHN/Loss/disc_loss_SVHN.png)
 
 
 
