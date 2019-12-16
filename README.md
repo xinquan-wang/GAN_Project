@@ -21,17 +21,17 @@ GAN_WGAN_SVHN.ipynb: GAN and WGAN models on SVHN dataset
 
 The resulting pictures, gifs and plots of loss can be found in the output folder.
 
-MNIST
+- MNIST
 
 |Baseline|Advanced|WGAN|
 |:-:|:-:|:-:|
 |![](./Output/MNIST/[Tutorial]image/image_at_epoch_0100.png)|![](./Output/MNIST/[Modified]image/image_at_epoch_0100.png)|![](./Output/MNIST/[WGAN]image/image_at_epoch_0100.png)|
 
 |Generator loss|Discriminator loss|
-|:-:|:-:|:-:|
+|:-:|:-:|
 |![](./Output/MNIST/Loss/gen_loss_MNIST.png)|![](./Output/MNIST/Loss/disc_loss_MNIST.png)
 
-SVHN
+- SVHN
 
 |Baseline|Advanced|WGAN|
 |:-:|:-:|:-:|
