@@ -44,6 +44,9 @@ The resulting pictures, gifs and plots of loss can be found in the output folder
 
 
 ## Reference
-- Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. (Full paper: http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
-             
-- Deep Convolutional Generative Adversarial Network. https://www.tensorflow.org/tutorials/generative/dcgan
+[1] Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf          
+[2] Deep Convolutional Generative Adversarial Network. https://www.tensorflow.org/tutorials/generative/dcgan          
+[3] Hui Jonathan. “GAN — Wasserstein GAN & WGAN-GP” https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490            
+[4] Wenyi Yu. “When we talk about  Deep Learning：GAN and WGAN”
+https://zhuanlan.zhihu.com/p/29394257              
+[5] Tim Sainburg. “Generative models in Tensorflow 2” https://github.com/timsainb/tensorflow2-generative-models
