@@ -1,5 +1,5 @@
 
-# STAT5242 GAN Project
+# GAN Project
 
 In this project, we explored the topic of Generative Adversarial Networks and built several models implementations using the Keras library.   
 
